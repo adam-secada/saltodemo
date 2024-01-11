@@ -12,7 +12,7 @@ salesforce.MyDomainSettings {
   enableShareBrowserSessionIOSForAuth = "false"
   instancedUrlRedirectHandling = "NoRedirect"
   logRedirections = "false"
-  myDomainName = "thunderinc-dev-ed"
+  myDomainName = "thunderconsulting-a-dev-ed"
   myDomainSuffix = "MySalesforce"
   redirectForceComSiteUrls = "true"
   redirectPriorMyDomain = "true"

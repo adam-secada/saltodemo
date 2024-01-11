@@ -11,9 +11,9 @@ salesforce.CaseSettings {
   caseMergeInLightning = "false"
   closeCaseThroughStatusChange = false
   defaultCaseFeedLayoutOn = true
-  defaultCaseOwner = "adam.secada@thundersf.saltodemo"
+  defaultCaseOwner = "adam.secada@thundersf.com.extrasalty"
   defaultCaseOwnerType = "User"
-  defaultCaseUser = "adam.secada@thundersf.saltodemo"
+  defaultCaseUser = "adam.secada@thundersf.com.extrasalty"
   emailToCase = {
     enableEmailToCase = false
   }
