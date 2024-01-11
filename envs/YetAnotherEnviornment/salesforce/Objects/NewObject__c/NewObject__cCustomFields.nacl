@@ -1,0 +1,14 @@
+type salesforce.NewObject__c {
+  salesforce.Text NewField__c {
+    apiName = "NewObject__c.NewField__c"
+    externalId = false
+    label = "NewField"
+    length = 18
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+}
